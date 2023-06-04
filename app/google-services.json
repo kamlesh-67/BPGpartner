@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726352937613",
+    "project_id": "bpg-partner",
+    "storage_bucket": "bpg-partner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726352937613:android:c409fcb64b81875df658c4",
+        "android_client_info": {
+          "package_name": "com.kamlesh.bpgpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726352937613-bj64mleel64m0kv41855pv36ojiq9du2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK5J0R_3zdyLjvrfe82d4YB0W6YqVqylg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726352937613-bj64mleel64m0kv41855pv36ojiq9du2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
