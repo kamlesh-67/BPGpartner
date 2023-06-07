@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/back"
+    android:background="@drawable/deshboardback"
     tools:context=".MainActivity">
 
     <ImageView
@@ -159,15 +159,15 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
                         android:src="@drawable/shadecards" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/jura_medium"
-                        android:text="Shade Cards"
+                        android:text="Formulas"
                         android:textAlignment="center"
                         android:textColor="#000000"
                         android:textSize="20sp"
@@ -323,7 +323,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/jura_medium"
-                    android:text="Custom Color"
+                    android:text="Custom Shades"
                     android:textAlignment="center"
                     android:textColor="#000000"
                     android:textSize="20sp"
